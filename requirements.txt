@@ -1,0 +1,6 @@
+pyvi==0.0.9.7
+gensim==3.8.0
+numpy==1.15.0
+pandas==0.25.1
+tensorflow==1.15.0
+keras==2.2.5
